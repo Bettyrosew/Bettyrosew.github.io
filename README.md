@@ -2,7 +2,7 @@
 #### This is basically about me and my short journey as I join the programming world, 10/02/2018.
 #### By Bettyrose Waithera.
 ## Description
-This is my Portfolio which is all about me ,my educational background,my skills,my hobbies and my interests. It also includes the very simple projects that I have done so far in Moringa School.It will enable one to understand me better and at least have a rough idea about me.
+This is my Portfolio containing all my information, my educational background,my skills,my hobbies and my interests. It also includes the very simple projects that I have done so far in Moringa School.It will enable one to understand me better and at least have a rough idea about me.
 ## Known Bugs
 Some of the projects in the link provided have some errors which I am very familiar with and haven't yet been resolved.
 ## Technologies Used
