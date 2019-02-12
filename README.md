@@ -9,6 +9,8 @@ This is my Portfolio containing all my information, my educational background,my
 * Open the website from website link provided in page.
 ## Known Bugs
 Some of the projects in the link provided have some errors which I am very familiar with and haven't yet been able to resolved being a junior programmer.
+###License
+GPL license.
 ## Technologies Used
 I used Ubuntu operating  system,atom io,git and git hub to create the content.
 
